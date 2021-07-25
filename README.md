@@ -1,3 +1,3 @@
 # testing
 
-Checking out git connection dsvgkhdskjbgdkjsfbvgkj
+Checking out git connection
